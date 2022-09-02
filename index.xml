@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://github.com/jackie-clouder/jackie-clouder.github.io.git/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Sep 2022 15:37:19 +0800</lastBuildDate><atom:link href="https://github.com/jackie-clouder/jackie-clouder.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://github.com/jackie-clouder/jackie-clouder.github.io.git/post/test/</link>
+      <pubDate>Fri, 02 Sep 2022 15:37:19 +0800</pubDate>
+      
+      <guid>https://github.com/jackie-clouder/jackie-clouder.github.io.git/post/test/</guid>
+      <description>hello hugo test content</description>
+    </item>
+    
+  </channel>
+</rss>
